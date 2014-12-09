@@ -11,7 +11,7 @@ describe Quiz::Quiz do
                 wrong => 'muchos',
                 wrong => 'los que defina el usuario'
                 
-            question "En Ruby los bloque son objetos que continen codigo",
+            question "En Ruby los bloque son objetos que contienen codigo",
                 wrong => 'Cierto',
                 right => 'Falso'
         }
