@@ -1,4 +1,4 @@
-TDD Examen
+DSL Examen
 ================
 
 Programa para la definición de un examen utilizando:
