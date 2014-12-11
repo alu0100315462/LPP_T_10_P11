@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
+
+#Modulo para contener las clases con las que se crea un examen
 module Quiz
   #clase Quiz que permite la definicion de un examen
   class Quiz
+    #Variable que se asigna a una respuesta para indicar que es correcta  
     RIGHT = 0
+    #Variable que se asigna a una respuesta para indicar que es erronea 
     WRONG = 1
     
     #almacena el titulo del examen y un bloque que analiza para obtener las preguntas
