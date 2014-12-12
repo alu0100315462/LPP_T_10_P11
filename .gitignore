@@ -1,4 +1,5 @@
 *~
 .o
 .class
-pkg/
+/pkg/
+.gem
