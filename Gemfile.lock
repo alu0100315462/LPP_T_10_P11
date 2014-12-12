@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    quiz (0.0.1)
+    ull-etsii-alu0100315462-quiz (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -86,6 +86,6 @@ DEPENDENCIES
   guard
   guard-bundler
   guard-rspec
-  quiz!
   rake (~> 10.0)
   rspec
+  ull-etsii-alu0100315462-quiz!
