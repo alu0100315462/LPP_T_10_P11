@@ -59,6 +59,11 @@ module Quiz
       puts "#{@acertadas} respuestas correctas de un total de #{@preguntas.size}"
     end
       
+      
+    def consultaUnica(pregunta, respuesta)
+      return @preguntas[pregunta - 1].consultaUnica(respuesta)
+    end
+      
   end
   
 end

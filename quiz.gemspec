@@ -5,6 +5,7 @@ require 'quiz/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ull-etsii-alu0100315462-quiz"
+  #spec.name          = "Quiz"
   spec.version       = Quiz::VERSION
   spec.authors       = ["Alexis Hugh Lopez Waugh, Alvaro Suarez Chausson"]
   spec.email         = ["alu0100315462@ull.edu.es"]

@@ -32,6 +32,12 @@ module Quiz
        respuesta = gets.to_i
        return @respuestas[respuesta - 1].consulta
     end
+    
+    
+    def consultaUnica(respuesta)
+      return @respuestas[respuesta - 1].consulta
+    end
+    
 
   end
 
