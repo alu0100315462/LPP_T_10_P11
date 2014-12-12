@@ -10,8 +10,8 @@ Programa para la definición de un examen utilizando:
   
   Practica Realizada por:
   
-  Alexis Hugh Lopez Waugh
-  Alvaro Suarez Chausson
+  Alexis Hugh Lopez Waugh<br>
+  Alvaro Suarez Chausson<br>
 
 
 <a href='https://travis-ci.org/alu0100315462/LPP_T_10_P11'>
