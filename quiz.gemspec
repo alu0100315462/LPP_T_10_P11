@@ -6,10 +6,10 @@ require 'quiz/version'
 Gem::Specification.new do |spec|
   spec.name          = "quiz"
   spec.version       = Quiz::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Alexis Hugh Lopez Waugh, Alvaro Suarez Chausson"]
+  spec.email         = ["alu0100315462@ull.edu.es"]
+  spec.summary       = %q{Clase Ruby para la definición de un examen.}
+  spec.description   = %q{Clase Ruby para la práctica 11 de Lenguajes y Paradigmas de Programación de la Universidad de la Laguna.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
